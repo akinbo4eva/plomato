@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//akinbo4eva.github.io/plomato/static/css/main.5e715f0f.css",
+    "main.js": "/http//akinbo4eva.github.io/plomato/static/js/main.54ea00ea.js",
+    "index.html": "/http//akinbo4eva.github.io/plomato/index.html",
+    "main.5e715f0f.css.map": "/http//akinbo4eva.github.io/plomato/static/css/main.5e715f0f.css.map",
+    "main.54ea00ea.js.map": "/http//akinbo4eva.github.io/plomato/static/js/main.54ea00ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e715f0f.css",
+    "static/js/main.54ea00ea.js"
+  ]
+}
